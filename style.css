@@ -173,6 +173,8 @@ picture{
     }
     .container3{
         flex-direction: column;
+        margin-left: 0;
+        margin-right: 0;
     }
     .container4, .container5{
         width: 100%;
